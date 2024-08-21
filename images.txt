@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #apache/airflow:2.9.2-python3.11
-haroldli/xiaoya-tvbox:latest
+#haroldli/xiaoya-tvbox:latest
+apachecn0/airflow-doc-zh
