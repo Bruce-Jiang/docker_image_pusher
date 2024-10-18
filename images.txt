@@ -15,4 +15,5 @@
 #milvusdb/milvus:v2.4.3
 #qyg2297248353/wiseflow:v0.3.0
 #jbarlow83/ocrmypdf-alpine:v16.4.3
-1panel/maxkb:v1.4.1
+#1panel/maxkb:v1.4.1
+openjdk:8-jdk
