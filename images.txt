@@ -20,4 +20,5 @@
 #provectuslabs/kafka-ui:v0.7.2
 #jenkins/jenkins:2.491-jdk17
 #gitlab/gitlab-ce:17.7.0-ce.0
-nginx:1.26.2-perl
+#nginx:1.26.2-perl
+bitnami/kafka:3.9
