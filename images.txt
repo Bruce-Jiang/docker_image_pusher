@@ -23,3 +23,4 @@
 #nginx:1.26.2-perl
 #bitnami/kafka:3.9
 mysql:5.7
+portainer/portainer:1.25.0
