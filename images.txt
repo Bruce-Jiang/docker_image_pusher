@@ -22,5 +22,6 @@
 #gitlab/gitlab-ce:17.7.0-ce.0
 #nginx:1.26.2-perl
 #bitnami/kafka:3.9
-mysql:5.7
-portainer/portainer:1.25.0
+#mysql:5.7
+#portainer/portainer:1.25.0
+powerjob/powerjob-server:v5.1.1
