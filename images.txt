@@ -11,7 +11,7 @@
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
 #langgenius/dify-sandbox:0.2.10
-langgenius/dify-plugin-daemon:0.0.2-local
+#langgenius/dify-plugin-daemon:0.0.2-local
 #postgres:15-alpine
 #ubuntu/squid:6.6-24.04_edge
 #semitechnologies/weaviate:1.19.0
@@ -30,3 +30,4 @@ langgenius/dify-plugin-daemon:0.0.2-local
 #portainer/portainer:1.25.0
 #powerjob/powerjob-server:v5.1.1
 #ollama/ollama:0.5.11
+rabbitmq:3.13.7-management-alpine
