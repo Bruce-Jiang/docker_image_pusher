@@ -30,4 +30,5 @@
 #portainer/portainer:1.25.0
 #powerjob/powerjob-server:v5.1.1
 #ollama/ollama:0.5.11
-rabbitmq:3.13.7-management-alpine
+#rabbitmq:3.13.7-management-alpine
+redis:7.2.5
