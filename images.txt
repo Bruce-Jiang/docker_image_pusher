@@ -31,4 +31,5 @@
 #powerjob/powerjob-server:v5.1.1
 #ollama/ollama:0.5.11
 #rabbitmq:3.13.7-management-alpine
-redis:7.2.5
+#redis:7.2.5
+tomcat:8.5.100-jre8
