@@ -5,7 +5,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #apache/airflow:2.9.2-python3.11
-haroldli/xiaoya-tvbox:latest
+#haroldli/xiaoya-tvbox:latest
 #apachecn0/airflow-doc-zh
 #eosphorosai/dbgpt:v0.5.9
 #langgenius/dify-api:0.15.3
@@ -39,3 +39,6 @@ haroldli/xiaoya-tvbox:latest
 #elasticsearch:8.11.3
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #valkey/valkey:8
+ghcr.io/monlor/xiaoya-alist:latest
+ghcr.io/monlor/xiaoya-metadata:latest
+ghcr.io/monlor/xiaoya-embyserver:latest
