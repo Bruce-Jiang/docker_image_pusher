@@ -39,6 +39,11 @@
 #elasticsearch:8.11.3
 #quay.io/minio/minio:RELEASE.2023-12-20T01-00-02Z
 #valkey/valkey:8
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
+#ghcr.io/monlor/xiaoya-alist:latest
+#ghcr.io/monlor/xiaoya-metadata:latest
+#ghcr.io/monlor/xiaoya-embyserver:latest
+neo4j:community-bullseye
+vesoft/nebula-metad:v3.8.0
+vesoft/nebula-storaged:v3.8.0
+vesoft/nebula-graphd:v3.8.0
+vesoft/nebula-console:v3.8
