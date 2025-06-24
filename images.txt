@@ -47,4 +47,5 @@
 #vesoft/nebula-storaged:v3.8.0
 #vesoft/nebula-graphd:v3.8.0
 #vesoft/nebula-console:v3.8
-neo4j:5.26.8-community
+#neo4j:5.26.8-community
+neo4j:5.26.8-enterprise
