@@ -51,4 +51,5 @@
 #neo4j:5.26.8-enterprise
 #cloudreve/cloudreve:4.8.0
 #postgres:17
-filebrowser/filebrowser:v2.43.0
+#filebrowser/filebrowser:v2.43.0
+apache/kafka:3.9.1
