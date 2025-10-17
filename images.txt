@@ -52,4 +52,4 @@
 #cloudreve/cloudreve:4.8.0
 #postgres:17
 #filebrowser/filebrowser:v2.43.0
-apache/kafka:4.0.1
+apache/kafka:4.1.0
