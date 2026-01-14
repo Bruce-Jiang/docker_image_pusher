@@ -54,4 +54,5 @@
 #filebrowser/filebrowser:v2.43.0
 #apache/kafka:4.1.0
 #automqinc/automq:1.5.5
-obsidiandynamics/kafdrop:4.2.0
+#obsidiandynamics/kafdrop:4.2.0
+automqinc/automq:1.5.5
